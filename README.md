@@ -1,9 +1,9 @@
 # CV-
 Cv de Youri Dendele-Etudiant Lycée Turgot en BTS informatique Cybersécurité
-##Compétence
+## Compétence
 J'ai des compétence en SISR 
-###syteme
+### syteme
 -windows server
 -V2x
-###DEV
+### DEV
 -javascript
