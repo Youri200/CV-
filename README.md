@@ -16,6 +16,7 @@ Cv de Youri Dendele-Etudiant Lycée Turgot en BTS informatique Cybersécurité
 -HTML
 -CSS
 -PHYTON
+-GIT
 ### syteme
 -windows:Administration et maintenance
 -V2x
