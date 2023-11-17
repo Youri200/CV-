@@ -6,13 +6,56 @@
 <h2>Compétence</h2>
 <p>J'ai des compétence en SISR et en SLAM</p>
 <h3>
-dévlopement 
--systeme 
--virtualisation 
--reseau 
--cybersecurite 
--eco-droit-management 
--SISR 
-<h3>
+<ul>
+    <li>
+        -dévlopement 
+        -systeme 
+        -virtualisation 
+        -reseau 
+        -cybersecurite 
+        -eco-droit-management 
+        -SISSR 
+    </li>
+</ul>
+</h3>
+<h4>Developpement</h4>
+<ul>
+    <li>SQL HTML CSS PHYTON GIT PHP</h1>
+</ul>
+
+<h5>syteme</h5>
+<ul>
+    <li>windows:Administration et maintenance V2x linux android -MD5</li>
+<ul>
+
+<h5>Virtualisation</h5>
+    <ul>
+        <li>Virtualbox</li>
+    </ul>
+
+<h6>Reseau<h6>
+    <ul>
+        <li>cisco packet Tracer Cisco Networking Essentials DNS Routage DHCP ARP VoIP/Téléphonie sur IP</li>
+    </ul>
+
+<h5>Cybersecurités</h5>
+<ul>
+    <li>Rootme</li>
+</ul>
+
+<h6>Economoe Droit Management</h6>
+    <ul>
+        <li>-RGPD Les agents économiques </li>
+    </ul>
+
+<h6>Système embarqués</h6>
+    <ul>
+        <li>cree un systeme</li>
+    </ul>
+
+<h6>Langue</h6>
+    <ul>
+        <li>-francais -anglais -créole</li>
+    </ul>
 <body>
 </html
